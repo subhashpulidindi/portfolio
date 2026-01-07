@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { revealOnScroll } from "./scrollReveal";
+import { revealOnScroll } from "./scrollreveal";
 
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
