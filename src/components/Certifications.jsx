@@ -22,7 +22,7 @@ const certs = [
   c11,c12,c13,c14,c15
 ];
 
-export default function Certifications() {
+export default function certifications() {
   const trackRef = useRef(null);
   const [index, setIndex] = useState(0);
   const [hover, setHover] = useState(false);
